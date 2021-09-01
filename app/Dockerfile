@@ -40,4 +40,4 @@ ENV APPYTER_PORT=5000
 ENV APPYTER_PROFILE=biojupies
 ENV APPYTER_EXTRAS=toc
 ENV APPYTER_DEBUG=false
-CMD [ "appyter", "example.ipynb"]
+CMD [ "appyter", "ensmallen.ipynb"]
