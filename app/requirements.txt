@@ -1,3 +1,4 @@
 dash
 flask
 pandas
+./ensmallen_graph-0.6.0-cp38-cp38-linux_x86_64.whl
