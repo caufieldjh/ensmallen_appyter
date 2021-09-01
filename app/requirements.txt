@@ -3,3 +3,4 @@ flask
 pandas
 requests
 ./ensmallen_graph-0.6.0-cp38-cp38-linux_x86_64.whl
+git+https://github.com/monarch-initiative/embiggen.git@develop
